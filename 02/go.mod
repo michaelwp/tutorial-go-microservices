@@ -1,3 +1,3 @@
-module github.com/michaelwp/tutorial-go-microservices/02
+module 02
 
 go 1.15
